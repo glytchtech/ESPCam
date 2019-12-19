@@ -12,6 +12,6 @@ $7.99 CP2102 UART Programmer: https://amzn.to/2MavQcj
 
 A couple M3x6 screws and some super glue are needed for assembly
 
-![One Cam]("/Images/one cam.jpg")
-![Three Cams](/Images/three cams.jpg)
+![One Cam](https://github.com/glytchtech/ESPCam/blob/master/Images/one%20cam.jpg)
+![Three Cams](https://github.com/glytchtech/ESPCam/blob/master/Images/three%20cams.jpg)
 ![Programmer Wiring](https://github.com/glytchtech/ESPCam/blob/master/Images/ESP32Cam%20Programming%20Wiring.jpg)
