@@ -1,5 +1,5 @@
-## ESPCam
-# STL and Configuration Files for Glytch's ESPCam Project
+# ESPCam
+## STL and Configuration Files for Glytch's ESPCam Project
 If you'd like to support more projects like this one, be sure to check out my [Patreon!](https://patreon.com/glytchtech)
 
 This repo contains all the relevant files to build your own low cost, self contained ESPCam! Bill of Materials with relevant (Amazon Affiliate) links down below! 
