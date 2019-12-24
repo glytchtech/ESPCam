@@ -16,3 +16,6 @@ A couple M3x6 screws and some super glue are needed for assembly
 ![One Cam](https://github.com/glytchtech/ESPCam/blob/master/Images/one%20cam.jpg)
 ![Three Cams](https://github.com/glytchtech/ESPCam/blob/master/Images/three%20cams.jpg)
 ![Programmer Wiring](https://github.com/glytchtech/ESPCam/blob/master/Images/ESP32Cam%20Programming%20Wiring.jpg)
+
+
+This post may contain affiliate links, which means I may receive a small commission if you choose to purchase through links I provide (at no extra cost to you). Thank you for supporting the work I put into this content!
