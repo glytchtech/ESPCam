@@ -13,10 +13,10 @@ All links are as of December 17th, 2019
 * Free 18650 Cell: Recycled from bad laptop battery 
 * $7.99 CP2102 UART Programmer: https://amzn.to/2MavQcj
 
-# Cae Parts BOM: 
+# Case Parts BOM: 
 All links are as of March 2nd, 2020
 * $3.50ea (Needs 1) Main Buck Converter: https://amzn.to/2TzlfKO
-* $1.55ea (Needs 1) 24V Panel Mount LED: << This link is a duplicate of the WaterProof Panel Switch link below. I don't know what your short code is to your amazon referal >> https://amzn.to/2wlrav6
+* $1.55ea (Needs 1) 24V Panel Mount LED: https://amzn.to/2V2NPpK
 * $1.10ea (Needs 1) WaterProof Panel Switch: https://amzn.to/2wlrav6
 * $3.63ea (Needs 2) SMA Antenna Extensions: https://amzn.to/2Tyl5U8
 * $Raspberry Pi 4: https://amzn.to/39iwxKb
